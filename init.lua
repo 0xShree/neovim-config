@@ -1,0 +1,7 @@
+require "shree.plugins"
+require "shree.options"
+require "shree.keymaps"
+require "shree.colorscheme"
+require "shree.treesitter"
+require "shree.toggleterm"
+require "shree.gitsigns"

@@ -7,4 +7,7 @@ git clone --depth 1 https://github.com/wbthomason/packer.nvim\
 ```
 -----
 # Clone Config
-
+```shell
+git clone --depth 1 https://github.com/0xShree/neovim-config\
+ ~/.config/nvim
+```

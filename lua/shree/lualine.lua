@@ -1,9 +1,3 @@
-local filetype = {
-	"filetype",
-	icons_enabled = true,
-	icon = nil,
-}
-
 require('lualine').setup {
   options = {
     icons_enabled = true,
